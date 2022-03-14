@@ -1,3 +1,4 @@
- am in a training no
- I am in second wave now with almighty allah help
-w
+<<<<<<< HEAD
+ I am currently working in git and git hub 
+ and doing some changes with almigty allah help
+>>>>>>> feature
