@@ -2,3 +2,4 @@ adbubd<<<<<< HEAD
  I am currently working in git and git hub 
  and doing some changes with almigty allah help
 >>>>>>> feature
+Making some changes in the remote repositore
